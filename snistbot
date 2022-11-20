@@ -6,7 +6,7 @@ step 2: the text to speech conversion tool is also required in order to convey t
 from the official documentation we get the code as follows:
 pip install pyttsx3
 step 3: the python audio is drivers are to be loaded such that there may not be any audio drivers missing cases
-as the project is based on linux this code may help not leading to erros:
+as the project is based on linux this code may help not leading to errors:
 sudo apt sudo apt install python3-pyaudio
 or 
 pip install PyAudio
